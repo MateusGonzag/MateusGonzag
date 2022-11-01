@@ -4,9 +4,9 @@
 
 <br/>
 
-<p><strong>Hello world! :coffee:  </strong> Opa, tudo bom? .</p>
+<p><strong>Hello world! :coffee:  </strong> Opa, tudo bom? Eu sou Mateus Oliveira ou Mateus Gonzag ou Mateus José (puts, muitos nomes), tenho 20 anos e sou Front-End dev. Iniciei os estudos em desenvolvimento front-end de forma autodidata no final de 2021 (após quebrar a cara com a faculdade de medicina kkjkjk). Sou apaixonado por café e jogos e tenho dois gatos e um cachorro maluco (ela não é doida de verdade). </p>
 
-<h1></h1>
+##
 
 <h3>Tecnologias :wink::</h3>
 
@@ -15,23 +15,23 @@
 <div align="left">
   
   <a alt="HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-730000?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
   
   <a alt="CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-730000?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
   
   <a alt="Javascript">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/JavaScript-730000?style=for-the-badge&logo=javascript&logoColor=white"/>
   </a>
   
   <a alt="Sass">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sass-730000?style=for-the-badge&logo=sass&logoColor=white"/>
   </a>
   
   <a alt="React">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/React-730000?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
   
 </div>
@@ -40,9 +40,11 @@
 
 <img src="https://media.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif" width=200px align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=false&title_color=730000&bg_color=00000000&text_color=FFF&card_width=422)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGonzag&layout=compact&hide_border=false&title_color=FFF&bg_color=00000000&text_color=FFF&card_width=422">
 
-<h1></h1>
+#
+
+<br/>
 
 <h3>Caso queira entrar em contato :+1::</h3>
 
