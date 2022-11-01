@@ -4,7 +4,7 @@
 
 <br/>
 
-<p><strong>Hello world! :coffee:  </strong> Opa, tudo bom? Eu sou Mateus Oliveira ou Mateus Gonzag ou Mateus José (puts, muitos nomes), tenho 20 anos e sou Front-End dev. Iniciei os estudos em desenvolvimento front-end de forma autodidata no final de 2021 (após quebrar a cara com a faculdade de medicina kkjkjk). Sou apaixonado por café e jogos e tenho dois gatos e um cachorro maluco (ela não é doida de verdade). </p>
+<p><strong>Hello world! :coffee:  </strong> Opa, tudo bom? Eu sou Mateus Oliveira ou Mateus Gonzag ou Mateus José (puts, muitos nomes), tenho 20 anos e sou Front-End dev. Iniciei os estudos em desenvolvimento front-end de forma autodidata no final de 2021 (após quebrar a cara com a faculdade de medicina kkjkjk), desde de criança sempre tive uma paixão por computação e astronomia e me perguntava "como que o computador pensa?". Sou apaixonado por café e jogos, tenho dois gatos e um cachorro maluco (ela não é doida de verdade). </p>
 
 ##
 
