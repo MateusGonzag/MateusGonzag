@@ -6,7 +6,6 @@
 
 <p><strong>Hello world! :coffee:  </strong> Opa, tudo bom? .</p>
 
-
 <h1></h1>
 
 <h3>Tecnologias :wink::</h3>
@@ -39,12 +38,15 @@
 
 <br/>
 
+<img src="https://media.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif" width=200px align="right">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=false&title_color=730000&bg_color=00000000&text_color=FFF&card_width=422)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
 <h1></h1>
 
-<h3>Caso queira entrar em contato:</h3>
+<h3>Caso queira entrar em contato :+1::</h3>
+
+<br/>
 
 <div align="left">
   
@@ -61,5 +63,3 @@
   </a>
   
 </div>
-
-<h1/>
