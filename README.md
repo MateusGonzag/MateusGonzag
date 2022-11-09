@@ -64,7 +64,7 @@
 
 <br/>
 
-+ Desenvolvendo um piano eletrônico para praticar tecnologias.
++ Desenvolvendo meu site de portfólio.
 + Aprendendo usar Styled Components.
 
 ##
