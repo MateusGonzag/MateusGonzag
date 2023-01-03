@@ -56,7 +56,7 @@
 
 <img src="https://media.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif" width=200px align="right">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGonzag&layout=compact&hide_border=false&title_color=FFF&bg_color=00000000&text_color=FFF&card_width=422">
+
 
 ##
 
