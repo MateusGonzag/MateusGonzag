@@ -88,6 +88,7 @@
   </a>
 
   <a href="https://gonzagdev.web.app" alt="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-730000?style=for-the-badge&logo=Porfolio&logoColor=FFF"/>
   </a>
   
 </div>
