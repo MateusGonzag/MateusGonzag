@@ -86,5 +86,8 @@
   <a href="https://t.me/MateusGonzag" alt="Telegram">
     <img src="https://img.shields.io/badge/-Telegram-730000?style=for-the-badge&logo=Telegram&logoColor=FFF"/>
   </a>
+
+  <a href="https://gonzagdev.web.app" alt="Portfolio">
+  </a>
   
 </div>
