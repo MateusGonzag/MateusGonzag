@@ -55,15 +55,23 @@
   </a>
 
   <a alt="Node.Js">
-    <img src="https://img.shields.io/badge/Styled Components-730000?style=for-the-badge&logo=Node.Js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.Js-730000?style=for-the-badge&logo=Node.Js&logoColor=white"/>
   </a>
 
   <a alt="Express.Js">
-    <img src="https://img.shields.io/badge/Styled Components-730000?style=for-the-badge&logo=Express.Js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.Js-730000?style=for-the-badge&logo=Express&logoColor=white"/>
   </a>
 
   <a alt="MongoDB">
-    <img src="https://img.shields.io/badge/Styled Components-730000?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDb-730000?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  </a>
+
+  <a alt="PHP">
+    <img src="https://img.shields.io/badge/PHP-730000?style=for-the-badge&logo=Php&logoColor=white"/>
+  </a>
+
+  <a alt="Python">
+    <img src="https://img.shields.io/badge/Python-730000?style=for-the-badge&logo=Python&logoColor=white"/>
   </a>
   
 </div>
