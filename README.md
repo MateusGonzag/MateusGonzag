@@ -4,7 +4,7 @@
 
 <br/>
 
-<p><strong>Hello world! :coffee:  </strong> Opa! tudo bom? Eu sou Mateus Oliveira ou Mateus Gonzag ou Mateus José (puts, muitos nomes), tenho 20 anos e sou Front-End dev. Iniciei os estudos em desenvolvimento front-end de forma autodidata no final de 2021, desde de criança sempre tive uma paixão por computação e astronomia e me perguntava: "como que o computador pensa?". Sou apaixonado por café e jogos, tenho dois gatos e um cachorro maluco (ela não é doida de verdade). </p>
+<p><strong>Hello world! :coffee:  </strong> Opa! tudo bom? Eu sou Mateus Oliveira ou Mateus Gonzag ou Mateus José (puts, muitos nomes), tenho 20 anos e sou Front-End dev. Iniciei os estudos em desenvolvimento front-end de forma autodidata no final de 2022, desde de criança sempre tive uma paixão por computação e astronomia e me perguntava: "como que o computador pensa?". Sou apaixonado por café e jogos, tenho dois gatos e um cachorro maluco (ela não é doida de verdade). </p>
 
 ##
 
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Sass-730000?style=for-the-badge&logo=sass&logoColor=white"/>
   </a>
   
-  <a alt="React">
+  <a alt="React.Js">
     <img src="https://img.shields.io/badge/React-730000?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
   
@@ -49,6 +49,22 @@
   <a alt="Styled Components">
     <img src="https://img.shields.io/badge/Styled Components-730000?style=for-the-badge&logo=StyledComponents&logoColor=white"/>
   </a>
+
+  <a alt="Tailwind">
+    <img src="https://img.shields.io/badge/TailwindCSS-730000?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+  </a>
+
+  <a alt="Node.Js">
+    <img src="https://img.shields.io/badge/Styled Components-730000?style=for-the-badge&logo=Node.Js&logoColor=white"/>
+  </a>
+
+  <a alt="Express.Js">
+    <img src="https://img.shields.io/badge/Styled Components-730000?style=for-the-badge&logo=Express.Js&logoColor=white"/>
+  </a>
+
+  <a alt="MongoDB">
+    <img src="https://img.shields.io/badge/Styled Components-730000?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  </a>
   
 </div>
 
@@ -64,8 +80,8 @@
 
 <br/>
 
-+ Desenvolvendo meu site de portfólio.
-+ Aprendendo usar Styled Components.
++ Aprofundando meus conhecimentos no Front-end
++ Aprendendo Back-end
 
 ##
 
