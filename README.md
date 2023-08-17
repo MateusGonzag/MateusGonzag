@@ -93,6 +93,14 @@
 
 ##
 
+<h3>Livros que estou lendo:</h3>
+
+<br/>
+
++ Orientação a Objetos e SOLID para Ninjas - Maurício Aniche
+
+##
+
 <h3>Caso queira entrar em contato :+1::</h3>
 
 <br/>
