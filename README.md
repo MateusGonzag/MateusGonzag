@@ -80,25 +80,6 @@
 
 <img src="https://media.tenor.com/jNgKSlUpmkEAAAAC/typing-laptop.gif" width=200px align="right">
 
-
-
-##
-
-<h3>O que estou desenvolvendo e aprendendo atualmente:</h3>
-
-<br/>
-
-+ Aprofundando meus conhecimentos no Front-end
-+ Aprendendo Back-end
-
-##
-
-<h3>Livros que estou lendo:</h3>
-
-<br/>
-
-+ Orientação a Objetos e SOLID para Ninjas - Maurício Aniche
-
 ##
 
 <h3>Caso queira entrar em contato :+1::</h3>
